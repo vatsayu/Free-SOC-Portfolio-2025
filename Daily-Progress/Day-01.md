@@ -35,20 +35,14 @@ The SIEM detected a suspicious email delivered to a user’s mailbox. The rule "
 After analysis, the alert is confirmed as a true positive. The email contained a deceptive link mimicking a legitimate login page. Recommended actions: quarantine email, notify user for awareness training, and block the domain at proxy level.
 
 ## Screenshots 
-![Alert Dashboard](<img width="1920" height="1200" alt="Screenshot 2025-12-12 230618" src="https://github.com/user-attachments/assets/a4774dc6-e637-4b60-8642-56129238dfeb" />
-)  
+![Alert Dashboard] <img width="1920" height="1200" alt="Screenshot 2025-12-12 230618" src="https://github.com/user-attachments/assets/a4774dc6-e637-4b60-8642-56129238dfeb"/>
 
-
-![Playbook Answers]( <img width="1919" height="1106" alt="Screenshot 2025-12-16 002801" src="https://github.com/user-attachments/assets/3868357c-418c-4ace-a559-b5841c017162" />
- )  
+![Playbook Answers] <img width="1919" height="1106" alt="Screenshot 2025-12-16 002801" src="https://github.com/user-attachments/assets/3868357c-418c-4ace-a559-b5841c017162"/>
 *Caption: Playbook questions and my answers*
 
-![ main channel ]( <img width="1920" height="1200" alt="Screenshot 2025-12-12 230804" src="https://github.com/user-attachments/assets/fd86b940-ffc5-48d1-aa94-12841a1a36a6" />
- )  
-*Caption: Main Channel view showing SOC282 alert*
-
-![Threat Intel Check](threat-intel.png)  
-*Caption: Reputation check confirming malicious domain*
+![ main channel ] <img width="1920" height="1200" alt="Screenshot 2025-12-12 230804" src="https://github.com/user-attachments/assets/fd86b940-ffc5-48d1-aa94-12841a1a36a6"/>
+ 
+*Caption: Main Channel*
 
 ## Key Takeaways
 - Always verify delivery status first in phishing alerts.
