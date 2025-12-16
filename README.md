@@ -15,6 +15,13 @@ Transitioning from Penetration Testing to Blue Team / Defensive Security
 - **Wireshark/PCAP**: Daily practice via Malware-Traffic-Analysis.net  
 - **Homelab Projects**: Wazuh SIEM, Sysmon + DetectionLab (in progress)
 
+  ### Day 1 Complete (December 16, 2025)
+- Completed 3 TryHackMe free rooms (Networking, Blue, Intro to Logs)
+- Triaged 3 LetsDefend alerts (Phishing + RDP Brute Force + Malicious Macro )
+- LetsDefend points: [250]
+- Splunk Fundamentals 1: In progress (Lessons pending)
+- First writeups and structure added to repo
+
 ### Skills & Tools
 - SIEM: Splunk, Microsoft Sentinel (KQL), Elastic (basics)
 - Endpoint: Sysmon, OSQuery, Windows Event Logs
